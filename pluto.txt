@@ -5,3 +5,4 @@ Test1
 collaborator added line
 
 pluto is not a planet
+I agree
